@@ -1,11 +1,11 @@
 
 {
 
-    "name": "TIGER",
+    "name": "DVICKY45",
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/tiger7815/tiger-txt-advanced",
+    "repository": "https://github.com/dvicky45/tiger-txt-ADVANCED",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
