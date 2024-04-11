@@ -1,6 +1,6 @@
 import os
 
-API_ID = API_ID = "21659643"
+API_ID = API_ID = 21659643
 
 API_HASH = os.environ.get("API_HASH", "c5f065905ef47e693b47e0f60bb67217")
 
